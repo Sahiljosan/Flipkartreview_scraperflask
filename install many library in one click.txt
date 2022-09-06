@@ -1,0 +1,4 @@
+under teminal menu of pycharm
+
+pip install -r requirement.txt
+
